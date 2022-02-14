@@ -15,7 +15,7 @@ async function main() {
 
   // We get the contract to deploy
   const SimpleBank = await hre.ethers.getContractFactory("SimpleBank");
-  const simpleBank = await SimpleBank.deploy("Hello, Hardhat!");
+  const simpleBank = await SimpleBank.deploy();
 
   await simpleBank.deployed();
 
