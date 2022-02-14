@@ -1,6 +1,6 @@
 # contractviahardhat
 
-This repo shows the example of smart contrac development using the Hardhat framework.
+This repo shows the example of smart contract project developed using the Hardhat framework.
 
 ## Hardhat Usage Summary :
 
